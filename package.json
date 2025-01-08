@@ -1,0 +1,32 @@
+{
+  "name": "moonscannerAI-media-scanner",
+  "version": "0.3.0",
+  "description": "Retrieve links to moonscannerAI media scanner from websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VincentKen/moonscannerAI-media-scanner.git"
+  },
+  "keywords": [
+    "moonscannerAI",
+    "media",
+    "scanner",
+    "webscraper"
+  ],
+  "author": "Vincent Kenbeek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VincentKen/moonscannerAI-media-scanner/issues"
+  },
+  "homepage": "https://github.com/VincentKen/moonscannerAI-media-scanner#readme",
+  "dependencies": {
+    "jsdom": "^9.9.1",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.12.2"
+  }
+}
